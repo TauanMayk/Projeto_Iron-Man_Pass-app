@@ -22,18 +22,16 @@ Um gerador de senhas seguro, rápido e estilizado — feito com **React Native**
 
 ## 📱 Como rodar o projeto
 
-    Clone o repositório:
-    
-```bash
+- Clone o repositório:
 
-git clone https://github.com/TauanMayk/Projeto_Iron-Man_Pass-app
+      git clone https://github.com/TauanMayk/Projeto_Iron-Man_Pass-app
 
-    Instale as dependências:
+- Instale as dependências:
 
-npm install
+      npm install
 
-    Inicie com o Expo:
+- Inicie com o Expo:
 
-npx expo start
+      npx expo start
 
-    Use o app em um emulador ou com o app Expo Go no celular.
+Use o app em um emulador ou com o app Expo Go no celular.
